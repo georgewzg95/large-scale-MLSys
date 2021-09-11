@@ -1,4 +1,4 @@
-# large-scale-MLSys
+# Large-Scale-MLSys
 These are MLSys reading list for private use
 
 ## Paper List of Large-scale Model Parallelism
