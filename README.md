@@ -29,6 +29,7 @@ These are MLSys reading list for private use
 
 ## Relevant Dissertation
 1. Improving ml applications in shared computing environments [[Link](https://aaronharlap.github.io//papers/aharlap_dissertation.pdf)]
+2. A Data and Platform-Aware Framework For Large-Scale Machine Learning [[Link](https://scholarship.rice.edu/handle/1911/88212)]
 
 
 
