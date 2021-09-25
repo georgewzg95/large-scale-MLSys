@@ -29,6 +29,9 @@ These are MLSys reading list for private use
 3. Determined AI [[Web Page](https://www.determined.ai/)]
 4. GPipe and GShard by google [[GPipe](https://github.com/tensorflow/lingvo/blob/master/lingvo/core/gpipe.py)][[GShard](https://github.com/tensorflow/lingvo/tree/master/lingvo/tasks/lm)]
 
+## Tools to speed up inference using quantization and prune
+1. neuralmagic [[link](https://neuralmagic.com/)]
+
 ## Relevant Dissertation
 1. Improving ml applications in shared computing environments [[Link](https://aaronharlap.github.io//papers/aharlap_dissertation.pdf)]
 2. A Data and Platform-Aware Framework For Large-Scale Machine Learning [[Link](https://scholarship.rice.edu/handle/1911/88212)]
