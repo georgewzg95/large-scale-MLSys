@@ -1,4 +1,4 @@
-# Large-Scale-MLSys
+# Machine Learning System
 These are MLSys reading list for private use
 
 ## Paper List of Large-scale Model Parallelism
@@ -21,6 +21,7 @@ These are MLSys reading list for private use
 17. Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM [[SC'21](https://arxiv.org/abs/2104.04473)][[code](https://github.com/NVIDIA/Megatron-LM)]
 18. HetSeq: Distributed GPU Training on Heterogeneous Infrastructure [[IAAI'21](https://arxiv.org/abs/2009.14783)][[code](https://github.com/yifding/hetseq)]
 19. PIPEMARE: ASYNCHRONOUS PIPELINE PARALLEL DNN TRAINING [[MLSys'21](https://proceedings.mlsys.org/paper/2021/file/6c8349cc7260ae62e3b1396831a8398f-Paper.pdf)]
+20. Data Movement Is All You Need: A Case Study on Optimizing Transformers [[MLSys'21](https://proceedings.mlsys.org/paper/2021/hash/c9e1074f5b3f9fc8ea15d152add07294-Abstract.html)]
 
 ## Exsiting Tools to train models in scale
 1. DeepSpeed by Microsoft [[Project Page](https://www.microsoft.com/en-us/research/blog/deepspeed-accelerating-large-scale-model-inference-and-training-via-system-optimizations-and-compression/)][[code](https://github.com/microsoft/DeepSpeed)]
